@@ -10,7 +10,7 @@ official website of the Vietnamese government.
 ## How to run project
 - Step 1: Clone code from Github:
 ```bash
-git clone ...
+git clone https://github.com/deanhdq/covid19.git
 ```
 - Step 2: Create virtual environment
 ```
